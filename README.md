@@ -1,5 +1,7 @@
 # 🎯 AI Product Recommendation System (`ai-product-recommender-vercel`)
 
+**🚀 Live Demo:** [https://project-recommendation-system.vercel.app](https://project-recommendation-system.vercel.app)
+
 A production-ready, beautifully designed, and highly optimized full-stack **AI Product Recommendation System** built as a single deployable Vercel project. It couples a modern, responsive Vite + React + TypeScript frontend with a secure Vercel Node.js Serverless Function backend.
 
 The system parses user criteria (e.g. *"I want a phone under $500 with good camera"*) in natural language, maps them to a structured user intent, and recommends matching products from an active local database with clear, AI-generated reasoning—all while enforcing a strict anti-hallucination filter.
